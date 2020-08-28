@@ -21,5 +21,25 @@
     <ClCompile Include="source\glad\glad\glad\src\glad.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="main_2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main_utils.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="main_texture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ShaderHelper.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Utils.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ShaderHelper.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
